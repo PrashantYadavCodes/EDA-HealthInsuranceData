@@ -2,7 +2,7 @@
 Data Description: The data at hand contains medical costs of people characterized by certain attributes.
 Domain: Healthcare
 Context: Leveraging customer information is paramount for most businesses. In the case of an insurance company, attributes of customers like the ones mentioned below can be crucial in making business decisions.
-# Attribute Information:
+## Attribute Information:
 "age": age of primary beneficiary
 "sex": insurance contractor gender, female, male
 "bmi": Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
